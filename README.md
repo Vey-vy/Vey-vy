@@ -17,7 +17,7 @@
 ## 🧠 **Languages & Tools**
 <p align="center">
   <!-- Replace these icons with your preferred languages -->
-  <img src="https://skillicons.dev/icons?i=c++,html,css,js,python,go,git,linux&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,go,git,linux&theme=dark&perline=8"/>
 </p>
 
 ---
