@@ -1,50 +1,22 @@
-<!-- Animated Header -->
+<h1 align="center">Veyvy</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFD5&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+an+Apprentice+Developer!;Learning+Every+Day+%F0%9F%94%A5;Building+Skills+Step+by+Step+%F0%9F%9A%80" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
-
----
-
-<h1 align="center">🌱 Learning, Experimenting & Growing</h1>
-
 <p align="center">
-  Just started my coding journey. I’m exploring technologies, building small projects, and sharpening my skills every day.  
-  My goal: <b>learn fast, practice more, and grow into a full-stack developer</b>.
+  <samp>low level · internals · analysis · development</samp>
 </p>
-
----
-
-## 🧠 **Languages & Tools**
+<br>
 <p align="center">
-  <!-- Replace these icons with your preferred languages -->
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,go,git,linux&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nextjs,nodejs,react,git,github,vscode,visualstudio" />
 </p>
-
----
-
-## 📊 **GitHub Stats**
+<br>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vey-vy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vey-vy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=veyvy&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 </p>
-
----
-
-## 🔥 **Activity & Streak**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vey-vy&theme=tokyonight&hide_border=true" />
+  <sub>「 understand what others simply use 」</sub>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vey-vy&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🎒 **About Me**
-```text
-🧑‍🎓 Status       : Apprentice Developer
-📚 Focus        : Learning Web & Backend Fundamentals
-💡 Mindset      : Practice > Theory
-⚡ Strength     : Motivated, Curious, Fast Learner
-🎯 Goal         : Become a Full-Stack Developer
