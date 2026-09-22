@@ -1,28 +1,54 @@
-<h1 align="center">Veyvy</h1>
-<p align="center">
-  <samp>reverse engineering · web development · software analysis</samp>
-</p>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTTP-8B5CF6?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-EC4899?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-6366F1?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
-<br>
-<p align="center">
-  <samp>
-    Web · HTTP · APIs · Backend · Reverse Engineering
-  </samp>
-</p>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nextjs,nodejs,react,git" />
-</p>
-<br>
+<div class="skills">
+    <div class="skill">C++</div>
+    <div class="skill">JavaScript</div>
+    <div class="skill">TypeScript</div>
+    <div class="skill">React</div>
+    <div class="skill">Next.js</div>
+    <div class="skill">Backend</div>
+    <div class="skill">Reverse Engineering</div>
+    <div class="skill">API</div>
+</div>
+
+<style>
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.skill {
+    width: 180px;
+    height: 65px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+
+    background: linear-gradient(
+        110deg,
+        #061426,
+        #087cff
+    );
+
+    clip-path: polygon(
+        12% 0,
+        100% 0,
+        88% 100%,
+        0 100%
+    );
+
+    box-shadow: 0 0 15px #087cff;
+
+    transition: 0.25s;
+}
+
+.skill:hover {
+    transform: translateY(-5px);
+    filter: brightness(1.3);
+}
+</style>
