@@ -23,6 +23,6 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nextjs,nodejs,react,css,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nextjs,nodejs,react,git" />
 </p>
 <br>
