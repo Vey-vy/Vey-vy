@@ -26,6 +26,3 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,nextjs,nodejs,react,html,css,git,github,vscode" />
 </p>
 <br>
-<p align="center">
-  <sub>「 understand the web. understand the code. 」</sub>
-</p>
