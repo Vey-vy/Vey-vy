@@ -1,171 +1,56 @@
-<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
+  <img src="assets/banner.svg" alt="Zenit banner" width="100%"/>
+</div>
 
-  <defs>
-    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07182d"/>
-      <stop offset="100%" stop-color="#087cff"/>
-    </linearGradient>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-0d1b33?style=for-the-badge&logo=cplusplus&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1b33?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Next.js-0d1b33?style=for-the-badge&logo=nextdotjs&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/Node.js-0d1b33?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-0d1b33?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/Docker-0d1b33?style=for-the-badge&logo=docker&logoColor=38bdf8" />
+</div>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<br/>
 
-  <!-- C++ -->
-  <g filter="url(#glow)">
-    <polygon
-      points="0,10 150,10 135,70 0,70"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="75" y="47"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      C++
-    </text>
-  </g>
+## 👋 À propos
 
-  <!-- JavaScript -->
-  <g filter="url(#glow)">
-    <polygon
-      points="165,10 315,10 300,70 165,70"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="240" y="47"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      JavaScript
-    </text>
-  </g>
+Développeur **game modding / reverse engineering** (C++, injection DLL, mod menus) et **full-stack web** (Next.js / TypeScript).
+Cible principalement **GTA V Enhanced**, **GTA IV**, **RDR2** et **Sons of the Forest** — build de frameworks de modding sur-mesure plutôt que d'outils tout faits (memory scanning, hooking, UI, scripting).
 
-  <!-- TypeScript -->
-  <g filter="url(#glow)">
-    <polygon
-      points="330,10 480,10 465,70 330,70"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="405" y="47"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      TypeScript
-    </text>
-  </g>
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-  <!-- React -->
-  <g filter="url(#glow)">
-    <polygon
-      points="495,10 645,10 630,70 495,70"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="570" y="47"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      React
-    </text>
-  </g>
+## 🚀 Projets
 
-  <!-- Next.js -->
-  <g filter="url(#glow)">
-    <polygon
-      points="660,10 810,10 795,70 660,70"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="735" y="47"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      Next.js
-    </text>
-  </g>
+<table>
+  <tr>
+    <td><img src="assets/card-amnesia.svg" alt="Amnesia" width="100%"/></td>
+    <td><img src="assets/card-launcher.svg" alt="GTA IV Launcher" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/card-nativedb.svg" alt="NativeDB" width="100%"/></td>
+    <td><img src="assets/card-rage.svg" alt="RAGE Matchmaking RE" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/card-virtualx.svg" alt="Virtual-X" width="100%"/></td>
+    <td><img src="assets/card-cdn.svg" alt="Self-Hosted CDN" width="100%"/></td>
+  </tr>
+</table>
 
-  <!-- Backend -->
-  <g filter="url(#glow)">
-    <polygon
-      points="825,10 975,10 960,70 825,70"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="900" y="47"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      Backend
-    </text>
-  </g>
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-  <!-- Reverse Engineering -->
-  <g filter="url(#glow)">
-    <polygon
-      points="165,90 400,90 385,150 165,150"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="282" y="127"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="17"
-          font-weight="bold">
-      Reverse Engineering
-    </text>
-  </g>
+## 🛠️ Stack & Outils
 
-  <!-- API -->
-  <g filter="url(#glow)">
-    <polygon
-      points="415,90 565,90 550,150 415,150"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="490" y="127"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      API
-    </text>
-  </g>
+- **Bas niveau / Reverse** : C++, IDA Pro, PE internals, VEH/SEH, hooking, pattern scanning
+- **Web** : Next.js, TypeScript, Node.js/Express
+- **Infra** : VPS, Docker, Traefik, CDN auto-hébergé
 
-  <!-- Git -->
-  <g filter="url(#glow)">
-    <polygon
-      points="580,90 730,90 715,150 580,150"
-      fill="url(#blue)"
-      stroke="#1683ff"
-      stroke-width="2"/>
-    <text x="655" y="127"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial"
-          font-size="18"
-          font-weight="bold">
-      Git
-    </text>
-  </g>
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-</svg>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&bg_color=0d1220&title_color=7dd3fc&icon_color=38bdf8&text_color=bcd7ee&border_color=1d4ed8" alt="stats" />
+</div>
+
+<div align="center">
+  <sub>⭐ N'hésite pas à laisser une étoile si un de ces projets t'intéresse !</sub>
+</div>
