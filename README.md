@@ -18,7 +18,7 @@
 <br>
 <p align="center">
   <samp>
-    Web · HTTP · APIs · Backend · Frontend · Reverse Engineering
+    Web · HTTP · APIs · Backend · Reverse Engineering
   </samp>
 </p>
 <br>
